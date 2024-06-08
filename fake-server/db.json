@@ -1,0 +1,108 @@
+{
+  "databases": [
+    {
+      "id": "1",
+      "name": "Database 1",
+      "url": "https://db1.example.com",
+      "username": "user1",
+      "password": "password1",
+      "type": "snowflake"
+    },
+    {
+      "id": "2",
+      "name": "Database 2",
+      "url": "https://db2.example.com",
+      "username": "user2",
+      "password": "password2",
+      "type": "trino"
+    },
+    {
+      "id": "3",
+      "name": "Database 3",
+      "url": "https://db3.example.com",
+      "username": "user3",
+      "password": "password3",
+      "type": "mySql"
+    },
+    {
+      "id": "4",
+      "name": "Database 4",
+      "url": "https://db3.example.com",
+      "username": "user4",
+      "password": "password4",
+      "type": "mySql"
+    },
+    {
+      "id": "5",
+      "name": "Database 5",
+      "url": "https://db3.example.com",
+      "username": "user5",
+      "password": "password5",
+      "type": "mySql"
+    },
+    {
+      "id": "6",
+      "name": "Database 6",
+      "url": "https://db3.example.com",
+      "username": "user6",
+      "password": "password6",
+      "type": "mySql"
+    },
+    {
+      "id": "CyPYfhog",
+      "name": "database 7",
+      "url": "google.com",
+      "username": "daniel",
+      "password": "1234",
+      "type": "mySql"
+    },
+    {
+      "id": "8YqNPsrj",
+      "name": "database 8",
+      "url": "google.com",
+      "username": "daniel",
+      "password": "123",
+      "type": "snowflake"
+    },
+    {
+      "id": "8YqNPsrnm",
+      "name": "database 9",
+      "url": "google.com",
+      "username": "daniel",
+      "password": "123",
+      "type": "snowflake"
+    },
+    {
+      "id": "vYqNPsrnm",
+      "name": "database 10",
+      "url": "google.com",
+      "username": "daniel",
+      "password": "123",
+      "type": "snowflake"
+    },
+    {
+      "id": "lalala",
+      "name": "database 11",
+      "url": "google.com",
+      "username": "daniel",
+      "password": "123",
+      "type": "snowflake"
+    },
+    {
+      "id": "hfjkshfk",
+      "name": "database 12",
+      "url": "google.com",
+      "username": "daniel",
+      "password": "123",
+      "type": "snowflake"
+    },
+    {
+      "id": "fsdf",
+      "name": "database 13",
+      "url": "google.com",
+      "username": "daniel",
+      "password": "123",
+      "type": "snowflake"
+    }
+  ]
+}
